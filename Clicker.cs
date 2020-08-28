@@ -251,7 +251,7 @@ public class Clicker : MonoBehaviour
 
     public void OpenURL()
     {
-        Application.OpenURL("https://hadievv2048.wixsite.com/website-1");
+        Application.OpenURL("");
     }
 
     public void OpenNextLearn(int index)
